@@ -24,6 +24,44 @@
         <description></description>
         </item>
         <item>
+        <title></title>
+        <link>https://hewoyu.github.io/p/</link>
+        <pubDate>Mon, 14 Apr 2025 13:25:21 +0800</pubDate>
+        
+        <guid>https://hewoyu.github.io/p/</guid>
+        <description>&lt;hr&gt;
+&lt;dl&gt;
+&lt;dt&gt;我认为热望+++ date = &amp;lsquo;2025-04-14T13:25:21+08:00&amp;rsquo; draft = true title = &amp;lsquo;MyFirstBlog&amp;rsquo; +++&lt;/dt&gt;
+&lt;dt&gt;date: &amp;ldquo;{{date}}&amp;rdquo; # 创建时间，我这边生成的格式是 YYYY-MM-DDTHH:mm:ssZ&lt;/dt&gt;
+&lt;dt&gt;tags:&lt;/dt&gt;
+&lt;dt&gt;- 标签1&lt;/dt&gt;
+&lt;dt&gt;- 标签2&lt;/dt&gt;
+&lt;dt&gt;title: &amp;ldquo;{{title}}&amp;rdquo;&lt;/dt&gt;
+&lt;dt&gt;slug: &amp;ldquo;{{time}}&amp;rdquo; # 自定义 URL 中文章的访问名称，默认用时间戳填充模板格式为X&lt;/dt&gt;
+&lt;dt&gt;share: false  # 配合 Enveloppe插件用的,true表示 obsidian 的文章可以发布&lt;/dt&gt;
+&lt;dt&gt;canonicalURL: &amp;quot;&amp;quot; # 之前文章在其他地方被发布的地址，避免搜索引擎重复，设置了该属性会优先展示 canonicalURL 执行的文章&lt;/dt&gt;
+&lt;dd&gt;&lt;h1 id=&#34;用于-seo-优化也可以不配置该内容默认会使用-tags-的内容&#34;&gt;用于 SEO 优化，也可以不配置该内容默认会使用 tags 的内容
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;关键字1&lt;/li&gt;
+&lt;li&gt;关键字2
+description: &amp;quot;&amp;quot; # 文章的描述 SEO 优化，为空时默认会截取文章前面的内容
+series: &amp;ldquo;系列&amp;rdquo; # 系列文章
+lastmod:  # 文章最后更新的时间
+lang: &amp;ldquo;cn&amp;rdquo; # 默认不用写，配置文件会设置默认 cn 中文，en 英文等等
+cover:
+image: &amp;quot;&amp;quot; # 文章封面图片地址
+author: # 作者名称
+dir: &amp;ldquo;posts&amp;rdquo; # 搭配 Enveloppe 插件设置文章上传的目录&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;hr&gt;
+&lt;pre&gt;&lt;code&gt;数学qw
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;12&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>MyFirstBlog</title>
         <link>https://hewoyu.github.io/p/myfirstblog/</link>
         <pubDate>Mon, 14 Apr 2025 13:25:21 +0800</pubDate>
@@ -450,37 +488,6 @@ $$</description>
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://hewoyu.github.io/p/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://hewoyu.github.io/p/</guid>
-        <description>&lt;hr&gt;
-&lt;h2 id=&#34;dir-posts--搭配-enveloppe-插件设置文章上传的目录&#34;&gt;date: &amp;ldquo;{{date}}&amp;rdquo; # 创建时间，我这边生成的格式是 YYYY-MM-DDTHH:mm:ssZ
-tags:
-- 标签1
-- 标签2
-title: &amp;ldquo;{{title}}&amp;rdquo;
-slug: &amp;ldquo;{{time}}&amp;rdquo; # 自定义 URL 中文章的访问名称，默认用时间戳填充模板格式为X
-share: false  # 配合 Enveloppe插件用的,true表示 obsidian 的文章可以发布
-canonicalURL: &amp;quot;&amp;quot; # 之前文章在其他地方被发布的地址，避免搜索引擎重复，设置了该属性会优先展示 canonicalURL 执行的文章
-keywords:   # 用于 SEO 优化，也可以不配置该内容默认会使用 tags 的内容
-- 关键字1
-- 关键字2
-description: &amp;quot;&amp;quot; # 文章的描述 SEO 优化，为空时默认会截取文章前面的内容
-series: &amp;ldquo;系列&amp;rdquo; # 系列文章
-lastmod:  # 文章最后更新的时间
-lang: &amp;ldquo;cn&amp;rdquo; # 默认不用写，配置文件会设置默认 cn 中文，en 英文等等
-cover:
-image: &amp;quot;&amp;quot; # 文章封面图片地址
-author: # 作者名称
-dir: &amp;ldquo;posts&amp;rdquo; # 搭配 Enveloppe 插件设置文章上传的目录
-&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;数学qw
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;12&lt;/p&gt;
-</description>
         </item>
         
     </channel>
